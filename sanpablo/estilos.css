@@ -1,0 +1,96 @@
+.menu {
+    background-color: rgb(205, 224, 192);
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.principal h1 {
+    text-align: center;
+    color: rgb(157, 195, 132);
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.principal h6 {
+    text-align: center;
+    color: rgb(157, 195, 132);
+    font-weight: bold;
+    font-style: italic;
+    text-transform: uppercase;
+}
+
+.principal p {
+    text-align: center;
+}
+
+.centradito {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.centradito img {
+    object-fit: cover;
+}
+
+footer {
+    background-color: rgb(205, 224, 192);
+    text-align: center;
+    padding: 10px;
+}
+
+footer h4 {
+    font-weight: bold;
+}
+
+.selected {
+    color: white !important;
+}
+
+.definirMitad{
+    width: 80%;
+}
+
+.objetivos {
+    background-color: rgb(205, 224, 192);
+    border: 4px solid black;
+    padding: 10px;
+}
+
+.p-oferta{
+    color: red;
+    font-weight: bold;
+}
+
+.productos{
+    width: 250px;
+    text-align: center;
+}
+
+.productos img{
+    height: 200px;
+}
+
+.container-link{
+    border: 2px solid black;
+    background-color: rgb(205, 224, 192);
+}
+
+.cont{
+    background-color: white;
+    border: 1px solid black;
+    padding: 10px;
+}
+.cont a{
+    text-decoration: none;
+    color: black;
+    padding: 10px 50% 10px 50%;
+}
+
+.p-form{
+    text-align: left !important;
+}
+
+.imagenPrincipal{
+    width: 80%;
+    max-width: 1400px;
+}
